@@ -3,7 +3,6 @@
     "echo": "./echo.py",
     "mls": "./moduleslist.py",
     "init": "./initializer.py",
-    "conf": "./localconf.py",
-    "make": "./make.py"
+    "conf": "./localconf.py"
   }
 }
