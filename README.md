@@ -1,0 +1,2 @@
+# animedb
+Anime datasets
